@@ -1,0 +1,16 @@
+{
+  "users":[
+    {
+      "id":1,
+      "name":"test-user-1",
+      "pass":"test-user-1-pass",
+      "role":"IBM employee"
+    },
+    {
+      "id":2,
+      "name":"test-user-2",
+      "pass":"test-user-2-pass",
+      "role":"IBM manager"
+    }
+  ]
+}

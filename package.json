@@ -1,0 +1,16 @@
+{
+  "name": "restapi-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx json-server ./data/user.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liquid",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1",
+    "nodemon": "^2.0.4"
+  }
+}
